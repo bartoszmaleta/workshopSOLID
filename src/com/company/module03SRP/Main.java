@@ -1,4 +1,4 @@
-package com.company;
+package com.company.module03SRP;
 
 public class Main {
 
